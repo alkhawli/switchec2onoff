@@ -1,4 +1,4 @@
 # switchec2onoff
 
 
-Trigger the lambda by Amazon API Gateway / REST /Any - Method Execution
+Trigger the lambda with Amazon API Gateway / REST /Any - Method Execution
