@@ -9,6 +9,6 @@
   "resource": "/ec2name",
   "path": "/ec2name",
   "httpMethod": "POST",
-  "body": "{\"instance_ec2\": 0}",
+  "body": "{\"status\": 0}",
   "isBase64Encoded": true
 }
